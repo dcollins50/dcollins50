@@ -30,7 +30,6 @@ Full documentation: [dcollins-homelab](https://github.com/dcollins50/dcollins-ho
 Active practice against TryHackMe rooms and personal lab targets. Writeups follow a consistent format with a lessons section tracking what slowed me down and what to do faster next time.
 
 - TryHackMe: Top 7% | 73 rooms | 13 badges | [dcollins50](https://tryhackme.com/p/dcollins50)
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/dcollins50.png)](https://tryhackme.com/p/dcollins50)
 
 Writeups and versioned methodology: [pentest-notes](https://github.com/dcollins50/pentest-notes)
 
