@@ -8,7 +8,7 @@ B.S. Cybersecurity and Information Assurance candidate at Western Governors Univ
 
 - CompTIA A+
 - CompTIA Tech+
-- Network+ (in progress)
+- Network+ (Expected May 2026)
 
 ---
 
